@@ -1,0 +1,77 @@
+[
+    {
+        "id":0,
+        "name": "Stavros klippotek",
+        "price": "150-250",
+        "adress": "Gådmansgatan 50, 113 57 Stockholm",
+        "open": "12.00",
+        "close": "17.00",
+        "phone": "07545664455",
+        "webadress": "www.stavrosklippklipp.se",
+        "stars": 4,
+        "votes":24,
+        "description":"Stavros klippotek ipsum dolor sit amet, vulputate nunc,här Stavros klippotek där och lite everywhere,Stavros klippotek",
+        "threatTime":"30 min"
+    }
+    ,{
+        "id":1,
+        "name": "Klipp & Klapp",
+        "price": "250-350",
+        "adress": "Lådmansgatan 49, 113 57 Stockholm",
+        "open": "12.00",
+        "close": "16.00",
+        "phone": "0723496455",
+        "webadress": "www.klippklapp.se",
+        "stars": 3,
+        "votes":35,
+        "description":"Klipp & Klapp ipsum dolor sit amet, vulputate nunc,ipsum dolor sit amet, vulputate nunc,grisar katter,fåglar m.m",
+        "threatTime":"25 min"
+    }
+    ,{
+        "id":2,
+        "name": "Sax Max",
+        "price": "150-250",
+        "adress": "Glansgatan 48, 113 57 Stockholm",
+        "open": "12.00",
+        "close": "19.00",
+        "phone": "07894578955",
+        "webadress": "www.saxmax.se",
+        "stars": 4,
+        "votes":56,
+        "description":"Sax Max ipsum dolor sit amet, vulputate nunc bererer dala aritus salandet det, kommmer kentarius.",
+        "threatTime":"20 min"
+
+    }
+    ,{
+        "id":3,
+        "name": "Topp knopp",
+        "price": "350-450",
+        "adress": "Ådmansgatan 47, 113 57 Stockholm",
+        "open": "12.00",
+        "close": "18.00",
+        "phone": "07234564455",
+        "webadress": "www.toppknopp.se",
+        "stars": 2,
+        "votes":23,
+        "description":"Topp knopp ipsum dolor sit amet, vulputate nunc, centurium faraes penturum senatrus pereklus pentud, grenasius pentarys",
+        "threatTime":"30 min"
+
+    }
+    ,{
+        "id":4,
+        "name": "KlippAnns Salong",
+        "price": "150-250",
+        "adress": "Gansgatan 46, 113 57 Stlocklol",
+        "open": "12.00",
+        "close": "16.00",
+        "phone": "072342355",
+        "webadress": "www.klippAnns.se",
+        "stars": 5,
+        "votes":67,
+        "description":"KlippAnns Salong är en av de finnaste salongerna i staden Stlocklol. Finfin klippning görs här!",
+        "threatTime":"15 min"
+
+    }
+   
+
+]
